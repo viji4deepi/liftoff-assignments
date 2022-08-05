@@ -17,3 +17,4 @@ Include a link to your public Trello board. Be sure you have user stories added 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/Jul-2022-LC-LiftOff/RecipeApp/blob/Ingredients/recipeApp/src/main/java/org/launchcode/liftoff/recipeApp/controllers/IngredientsController.java
